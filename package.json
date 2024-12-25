@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@polkadot/api": "^15.0.2",
     "@polkadot/rpc-provider": "^15.0.2",
     "@substrate/connect": "^2.1.1",
     "react": "^18.3.1",
